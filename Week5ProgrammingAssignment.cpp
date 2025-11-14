@@ -70,7 +70,7 @@ int main()
 
     hourlybirds = birdsseen / hoursbirding;
 
-    cout << fixed << setprecision(2);
+    
 
     // ********** OUTPUT STATEMENT **********
 

@@ -1,0 +1,7 @@
+******************************
+   Location: Kensington
+   Minutes Birding: 60
+   Miles Traveled: 1
+   Birds Seen: 45
+   Avg Birds/Hour: 45
+******************************
